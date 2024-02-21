@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Diagonal",
+    "slug": "Diagonal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icons/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abdullah11223.Diagonal"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0faea19c-0870-4357-b02d-44a87a42d70b"
+      }
+    }
+  }
+}
